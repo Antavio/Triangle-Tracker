@@ -8,7 +8,7 @@
 <body>
   <script src="js/scripts.js"></script>
   <h2>Triangle Tracker</h2>
-  <form>
+  <form id = "inputForm">
     <p>Input Length value to determine type of a Triangle</p>
     <hr>
     <label for="Length-one">Enter First Length</label>
@@ -16,9 +16,9 @@
     <label for="Length-two">Enter Second Length</label>
     <input type="text" id="Length-two" placeholder="Second Length"><br><br>
     <label for="Length-three">Enter Third Length</label>
-    <input type="text" id="Length-three" placeholder="Third Length">
-  </form>
+    <input type="text" id="Length-three" placeholder="Third Length"><br>
   <button type="button" name="Check" id="check" onclick="tracker()">Submit</button>
   <button type="button" name="Clear" id="clear" onclick="clearInput()">Clear</button>
+  </form>
 </body>
 </html>

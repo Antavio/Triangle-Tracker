@@ -20,3 +20,7 @@ function tracker(){
     alert ("Entered values should be greater than zero");
   }
 }
+
+function clearInput(){
+  document.getElementById("inputForm").reset();
+}
