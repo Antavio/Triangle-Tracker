@@ -18,10 +18,10 @@ The different that were used to develop this program include:
   3. JavaScript
 
 ### Project's BDD
-| Our Program handles | Input Values | Expected Results |
-| --- | --- | --- |
-| Values that cannot form a Triangle | 9,4,3  | Cannot make a Triangle |
-| git diff | Show file differences that haven't been staged |
+| Our Program handles  | Input Values | Expected Results |
+| :---         |     :---:      |    :---:      |
+| Values that cannot form a Triangle   | 9,4,3     | Cannot make a Triangle    |
+| 3 equal input values     | 7,7,7       | Equilateral Triangle      |
 
 
 #### Contact Me
