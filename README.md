@@ -26,12 +26,12 @@ The different that were used to develop this program include:
 | None of the sides are equal     | 6,8,10       | Scalene Triangle      |
 
 
-#### Contact Me
+### Contact Me
 If you have any suggestions, additions or modification on this project you can reach me via my email: njuguna13@gmail.com
 
 
-##### License  & Copyright information
-Copyright (c) 2019 (Anthony Njuguna Kiarie)
+### License  & Copyright information
+Copyright (c) (2019) Anthony Njuguna Kiarie
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
