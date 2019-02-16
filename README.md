@@ -18,13 +18,11 @@ The different that were used to develop this program include:
   3. JavaScript
 
 ### Project's BDD
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
-  | Our Program handles                | Input Values | Expected Results      |
-  | :---                               | : ---:       |                   ---:|
-  | Values that cannot form a Triangle | 9,4,3        | Cannot make a Triangle|
-  | 3 equal input values               | 7,7,7        | Equilateral Triangle  |
-  | 2 equal sides                      | 5,5,6        | Isosceles Triangle    |  
-  | None of the sides are equal        | 3,4,7        | Scalene Triangle      |
 
 #### Contact Me
 If you have any suggestions, additions or modification on this project you can reach me via my email: njuguna13@gmail.com
