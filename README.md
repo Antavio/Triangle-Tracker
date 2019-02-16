@@ -13,15 +13,24 @@ This is a Triangle tracker program that allows a user to enter three Length valu
   - atom .
 ### Technologies used
 The different that were used to develop this program include:
-  * HTML
-  * CSS
-  * JavaScript
+  1.  HTML
+  2. CSS
+  3. JavaScript
 
-## Contact Me
+### Project's BDD
+
+  | Our Program handles                | Input Values | Expected Results      |
+  | ---------------------------------- | : ----------:| ---------------------:|
+  | Values that cannot form a Triangle | 9,4,3        | Cannot make a Triangle|
+  | 3 equal input values               | 7,7,7        | Equilateral Triangle  |
+  | 2 equal sides                      | 5,5,6        | Isosceles Triangle    |  
+  | None of the sides are equal        | 3,4,7        | Scalene Triangle      |
+
+#### Contact Me
 If you have any suggestions, additions or modification on this project you can reach me via my email: njuguna13@gmail.com
 
 
-## License  & Copyright information
+##### License  & Copyright information
 Copyright (c) 2019 (Anthony Njuguna Kiarie)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
