@@ -20,7 +20,7 @@ The different that were used to develop this program include:
 ### Project's BDD
 
   | Our Program handles                | Input Values | Expected Results      |
-  | ---------------------------------- | : ----------:| ---------------------:|
+  | :---                               | : ---:       |                   ---:|
   | Values that cannot form a Triangle | 9,4,3        | Cannot make a Triangle|
   | 3 equal input values               | 7,7,7        | Equilateral Triangle  |
   | 2 equal sides                      | 5,5,6        | Isosceles Triangle    |  
