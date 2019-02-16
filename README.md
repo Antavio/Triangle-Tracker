@@ -16,6 +16,11 @@ The different that were used to develop this program include:
   * HTML
   * CSS
   * JavaScript
+
+## Contact Me
+If you have any suggestions, additions or modification on this project you can reach me via my email: njuguna13@gmail.com
+
+
 ## License  & Copyright information
 Copyright (c) 2019 (Anthony Njuguna Kiarie)
 
