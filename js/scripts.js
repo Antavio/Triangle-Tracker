@@ -13,7 +13,7 @@ function tracker(){
       } else if ((storedArray[0] == storedArray[1]) || (storedArray[1] == storedArray[2]) || (storedArray[0] == storedArray[2])){
         alert("Isosceles Triangle");
       } else {
-        alert("Scalene");
+        alert("Scalene Triangle");
       }
     }
   } else {

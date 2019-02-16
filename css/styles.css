@@ -4,17 +4,18 @@ h2 {
   font-weight: bold;
   font-size: 40px;
 }
+
 p {
   margin-left: 4px;
   font-size: 25px;
   font-style: oblique;
 }
-
-input[type = text], select {
+input[type = text] {
   width: 20%;
   padding: 15px 20px;
   margin: 10px;
-  border-radius: 3%;
+  border: 2px solid #17A589;
+  border-radius: 10px;
   -webkit-transition: width 0.5s ease-in-out;
   transition: width 0.4s ease-in-out;
 }
@@ -39,7 +40,7 @@ input[type = text]:focus {
   display: inline-grid;
   margin-left: 10%;
   border-radius: 13px;
-  width: 200px;
+  width: 180px;
 }
 #check {
   background-color: white;
@@ -53,7 +54,7 @@ input[type = text]:focus {
 #clear {
   background-color: white;
   border: 3px solid #F44336;
-  margin-left: 100px;
+  margin-left: 90px;
 }
 
 #clear:hover {
