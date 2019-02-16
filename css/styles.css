@@ -5,27 +5,41 @@ h2 {
   font-size: 40px;
 }
 p {
-  margin-left: 10px;
+  margin-left: 4px;
+  font-size: 25px;
+  font-style: oblique;
 }
 
 input[type = text], select {
-  width: 50%;
-  display: inline-flex;
-  box-sizing: border-box;
+  width: 20%;
   padding: 15px 20px;
-  margin: 10px 0;
+  margin: 10px;
+  border-radius: 3%;
+  -webkit-transition: width 0.5s ease-in-out;
+  transition: width 0.4s ease-in-out;
 }
+input[type = text]:focus {
+  width: 40%;}
 
+#Length-one {
+  margin-left: 27px;
+}
+#Length-three{
+  margin-left: 20px;
+}
+#inputForm{
+  margin-left: 20%;
+}
 .button {
   background-color: white;
   font-size: 20px;
   text-align: center;
   display: inline-block;
-  cursor: no-drop;
+  cursor: pointer;
   display: inline-grid;
   margin-left: 10%;
   border-radius: 13px;
-  width: 250px;
+  width: 200px;
 }
 #check {
   background-color: white;
