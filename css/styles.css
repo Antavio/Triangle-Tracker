@@ -3,3 +3,37 @@ h2 {
   font-family: fantasy;
   font-weight: bold;
 }
+p {
+  margin-left: -10%;
+}
+#inputForm {
+  text-align: center;
+}
+
+.button {
+  background-color: white;
+  font-size: 20px;
+  text-align: center;
+  display: inline-block;
+  cursor: no-drop;
+  display: inline-grid;
+}
+#check {
+  background-color: white;
+  border: 3px solid #3498DB;
+}
+
+#check:hover {
+  background-color: #3498DB;
+  color: white;
+}
+#clear {
+  background-color: white;
+  border: 3px solid #F44336;
+  margin-left: 100px;
+}
+
+#clear:hover {
+  background-color: #F44336;
+  color: white;
+}
