@@ -2,12 +2,18 @@ h2 {
   text-align: center;
   font-family: fantasy;
   font-weight: bold;
+  font-size: 40px;
 }
 p {
-  margin-left: -10%;
+  margin-left: 10px;
 }
-#inputForm {
-  text-align: center;
+
+input[type = text], select {
+  width: 50%;
+  display: inline-flex;
+  box-sizing: border-box;
+  padding: 15px 20px;
+  margin: 10px 0;
 }
 
 .button {
@@ -17,6 +23,9 @@ p {
   display: inline-block;
   cursor: no-drop;
   display: inline-grid;
+  margin-left: 10%;
+  border-radius: 13px;
+  width: 250px;
 }
 #check {
   background-color: white;
