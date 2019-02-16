@@ -22,6 +22,8 @@ The different that were used to develop this program include:
 | :---         |     :---:      |    :---:      |
 | Values that cannot form a Triangle   | 9,4,3     | Cannot make a Triangle    |
 | 3 equal input values     | 7,7,7       | Equilateral Triangle      |
+| 2 equal input values     | 5,5,7       | Isosceles Triangle      |
+| None of the sides are equal     | 6,8,10       | Scalene Triangle      |
 
 
 #### Contact Me
