@@ -1,3 +1,6 @@
+body {
+  background-image: url(../images/sun-pattern.png);
+}
 h2 {
   text-align: center;
   font-family: fantasy;
@@ -29,7 +32,7 @@ input[type = text]:focus {
   margin-left: 20px;
 }
 #inputForm{
-  margin-left: 20%;
+  margin-left: 25%;
 }
 .button {
   background-color: white;
