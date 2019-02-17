@@ -25,6 +25,8 @@ The different that were used to develop this program include:
 | 2 equal input values     | 5,5,7       | Isosceles Triangle      |
 | None of the sides are equal     | 6,8,10       | Scalene Triangle      |
 
+### Link to live site
+Visit this link to view the program in action https://antavio.github.io/Triangle-Tracker/
 
 ### Contact Me
 If you have any suggestions, additions or modification on this project you can reach me via my email: njuguna13@gmail.com
